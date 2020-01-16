@@ -3,3 +3,8 @@ body {
   font-size: 15px; 
   font-weight: bold; 
 }
+
+#main { 
+ height: 300px; 
+ width: 100px; 
+} 
